@@ -1,6 +1,6 @@
 # Extraction de données depuis des CV PDF avec Mistral (LLM local) et Streamlit
 
-Ce projet extrait automatiquement les informations clés (nom, email, téléphone, expériences, etc.) depuis des CV au format PDF, en utilisant un modèle LLM local (Mistral via Ollama) et une interface Streamlit.
+Ce projet extrait automatiquement les informations clés (Full Name, email, Phone Number, level of Education, Education Insttitution.) depuis des CV au format PDF, en utilisant un modèle LLM local (Mistral via Ollama) et une interface Streamlit.
 
 ## Fonctionnalités
 
